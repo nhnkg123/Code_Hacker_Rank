@@ -19,3 +19,25 @@ D:\working\Test\Test\obj\Debug\net8.0\Test.pdb
 D:\working\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
 D:\working\Test\Test\obj\Debug\net8.0\ref\Test.dll
 D:\working\Test\Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Test.exe
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Test.deps.json
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Test.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Test.pdb
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.sourcelink.json
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.csproj.Up2Date
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\refint\Test.dll
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.pdb
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Users\nam.nguyen20\source\New folder\Hacker_Rank\Code_Hacker_Rank\obj\Debug\net8.0\ref\Test.dll
